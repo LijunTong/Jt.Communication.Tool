@@ -2,10 +2,289 @@
 branches: {
   }
 fileChange:
-  /README.md:
-    newFile: !uuid 'fc317af2cd760c495716f06e2578fabafb127a7d'
+  /Joon.Communication.Tool:
+    newFile: !uuid '5ca880768df06fa8db1c3ef96386153b8848764c'
     oldFile: null
-gitCommitId: !uuid '2f17cc00326700f5c0c59423c8b4cd5c203a761f'
+  /Joon.Communication.Tool.sln:
+    newFile: !uuid 'f21aa63b162cb95267a5a29d3dee82de93675d41'
+    oldFile: null
+  /Joon.Communication.Tool.v12.suo:
+    newFile: !uuid '39c2a8d016b161ee3e9b1b39562ae4924376d6fa'
+    oldFile: null
+  /Joon.Communication.Tool/App.config:
+    newFile: !uuid '9d5dab515693dd5c330e1de856247191e5550439'
+    oldFile: null
+  /Joon.Communication.Tool/Joon.Communication.Tool.csproj:
+    newFile: !uuid '9e5e3449cbf77cf86b5ec206c0815a0591b483db'
+    oldFile: null
+  /Joon.Communication.Tool/Models:
+    newFile: !uuid '82cfecb2eb85bdd9472fdbabe021192d9351c302'
+    oldFile: null
+  /Joon.Communication.Tool/Models/ConfigItem.cs:
+    newFile: !uuid 'bc854ae9da0245f19ecf656d46587472c16c810b'
+    oldFile: null
+  /Joon.Communication.Tool/Program.cs:
+    newFile: !uuid '68c45031e653cac0ea13ac36054ab543648b1be6'
+    oldFile: null
+  /Joon.Communication.Tool/Properties:
+    newFile: !uuid '2601c6ade3b61cc1ba8a54bbdf74e66bfd556899'
+    oldFile: null
+  /Joon.Communication.Tool/Properties/AssemblyInfo.cs:
+    newFile: !uuid '02cb5230fb26a65ab23f04e68a5ac57ef61970a8'
+    oldFile: null
+  /Joon.Communication.Tool/Properties/Resources.Designer.cs:
+    newFile: !uuid '8bc06507a0b1af5f2c37f9f3c91ebaa121f0039d'
+    oldFile: null
+  /Joon.Communication.Tool/Properties/Resources.resx:
+    newFile: !uuid 'ffecec851ab4deae63e81647b4655c7d1fe6dfd7'
+    oldFile: null
+  /Joon.Communication.Tool/Properties/Settings.Designer.cs:
+    newFile: !uuid 'ca2edbfe8257b0351150ab7cb9461404cdab8007'
+    oldFile: null
+  /Joon.Communication.Tool/Properties/Settings.settings:
+    newFile: !uuid 'abf36c5d3d7a33baabb780c9dffef3d804ceb62f'
+    oldFile: null
+  /Joon.Communication.Tool/UI:
+    newFile: !uuid '9d89f1f257cbe206adb2420cc512a7b7bd4dc11a'
+    oldFile: null
+  /Joon.Communication.Tool/UI/FrmSerialPortSet.Designer.cs:
+    newFile: !uuid '5ba225076c226587c2dc94866e1002baeb73189d'
+    oldFile: null
+  /Joon.Communication.Tool/UI/FrmSerialPortSet.cs:
+    newFile: !uuid '08ad6b8b85ff5acde290d8ccba40e29b40b34f83'
+    oldFile: null
+  /Joon.Communication.Tool/UI/FrmSerialPortSet.resx:
+    newFile: !uuid '29dcb1b3a353ba227f65e11fbe3d6f0766e84292'
+    oldFile: null
+  /Joon.Communication.Tool/UI/FrmTcp.Designer.cs:
+    newFile: !uuid '5df168d89ff159caf153360d2ad2cfb0986f7a91'
+    oldFile: null
+  /Joon.Communication.Tool/UI/FrmTcp.cs:
+    newFile: !uuid 'f3bb175c3708c61bd8ec71cf131e134f7d3c231d'
+    oldFile: null
+  /Joon.Communication.Tool/UI/FrmTcp.resx:
+    newFile: !uuid '191c8b99222f2e1569aa783e69f9e3f792207233'
+    oldFile: null
+  /Joon.Communication.Tool/Utils:
+    newFile: !uuid '03360bf086ce4b36ab0baec33dde322040aba622'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperClassProperties.cs:
+    newFile: !uuid '4cc4e566abc0f07c6843a418b1f5b8dae6fdf055'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperConfig.cs:
+    newFile: !uuid '6289945c4ed7b2e253b495eaf0995084f16620ec'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperControl.cs:
+    newFile: !uuid 'ffffc2d2d4a0939b3e593b7ac1fecd0dd6e03a75'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperIni.cs:
+    newFile: !uuid '5fb0137e2daa88b2c516bfdc517284ca6ba044a7'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperJson.cs:
+    newFile: !uuid '6f7b103726832511cb5ff9010d707d725d31e320'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperLog.cs:
+    newFile: !uuid '41b4e465fc657a4cc2207fedf09b4fa5681769b2'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperSerialPort.cs:
+    newFile: !uuid 'fd8ff4aee0ad557552121968160f3c1ab9eff976'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperString.cs:
+    newFile: !uuid 'a74132514321d912c32c2028aa357c65fdc2883e'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperTcp.cs:
+    newFile: !uuid '68385ff9d62949273419a2d645ac0cd691e1e253'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperTcpClient.cs:
+    newFile: !uuid '6ca3a1656bfa738c9d230a1f14565d69c895ec47'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/CHelperTcpService.cs:
+    newFile: !uuid '51799bb52f886ff5a4ef1455028be30e534ef73d'
+    oldFile: null
+  /Joon.Communication.Tool/Utils/ToolEnum.cs:
+    newFile: !uuid '1424610549157ddda33ed4c8a4721da304fbc712'
+    oldFile: null
+  /Joon.Communication.Tool/logo.ico:
+    newFile: !uuid 'df8f5c8da4466fc614d6a2603f1228e3100b6a86'
+    oldFile: null
+  /Joon.Communication.Tool/packages.config:
+    newFile: !uuid '82cbcac835f02b5cb1ad22f417bfa31f49afff19'
+    oldFile: null
+  /image:
+    newFile: !uuid 'd5021eba0dc0384e0a04fc2758cb076e0af4c134'
+    oldFile: null
+  /image/logo.ico:
+    newFile: !uuid 'df8f5c8da4466fc614d6a2603f1228e3100b6a86'
+    oldFile: null
+  /packages:
+    newFile: !uuid 'b95d5865e2ec96b45b9945a0b3d2583a31874a73'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2:
+    newFile: !uuid 'cc5b52b483951e07f347e0e0f8403daa6545e497'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/LICENSE.md:
+    newFile: !uuid '6cc88f29b9e101141e2bda9f00e1425fc3c04da4'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/Newtonsoft.Json.12.0.2.nupkg:
+    newFile: !uuid '726966bf22afc8baa92b3870d99a0baf7b00fde5'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib:
+    newFile: !uuid 'e052df8d54e21757585d0836db691ca05f7fc3f4'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net20:
+    newFile: !uuid '42082f0473c2c58cf1255c6005edd2b5a5888dcc'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.dll:
+    newFile: !uuid '524a78388d55cf8a05f4c9e3e1e80070c0bfd79d'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.xml:
+    newFile: !uuid '0b01b8836002207570d9fdca2dd2c3d449d9fe59'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net35:
+    newFile: !uuid '4e6d102b7ee5b02d487d9c4739ed395a75c1e425'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.dll:
+    newFile: !uuid '101fdadd64447c6488634e3efce887bfd6001562'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.xml:
+    newFile: !uuid '09047173ff372040065408f18bea47a49f8e1e0a'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net40:
+    newFile: !uuid '28322d93d184d7ba56a4963ff33987271cf8a92a'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.dll:
+    newFile: !uuid '554e99de9d4dd950c7990097a59e22ca2b75fc29'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.xml:
+    newFile: !uuid 'ea4a56a9d9618adf016ac22046a584869e4ca72c'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net45:
+    newFile: !uuid '14ac5645e54f25da0e1ecc0ed2e7ecf870af318a'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.dll:
+    newFile: !uuid '4395f61011c9a01e09520319ccba468292335656'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.xml:
+    newFile: !uuid '9e42a4131408724432e1080d042027cc5109d389'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0:
+    newFile: !uuid '3fff6dca3bed5316a56d31aaf830c0db95291cc0'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.dll:
+    newFile: !uuid '534d057de3db239d4185d51b38e7cab84e637cc1'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.xml:
+    newFile: !uuid 'dcc129f8d2d556999ee734ce5c2d16bc01bf7dc7'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3:
+    newFile: !uuid '9498277f96e4dd081f98af24484eadee293167b8'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.dll:
+    newFile: !uuid '91006b3f7b68f0e6ac3fe13e8c50747a65ad52c7'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.xml:
+    newFile: !uuid '03174e0261b9da9d40ed5ecc653b9682b1e7f5a8'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0:
+    newFile: !uuid '262db6276b11eb8e4811bc2c3043a53836c47f85'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll:
+    newFile: !uuid 'b8ea6e0e27527675d0fe0359bed022b995013f1e'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.xml:
+    newFile: !uuid 'a73bd0a880607b1a0d152c809e31dc7b505e45c8'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81:
+    newFile: !uuid '61bca6a6c8bbc6b838f3e76781b66be6728b9779'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll:
+    newFile: !uuid '6e233b9f770b61d3a366711793819c360c379cf7'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml:
+    newFile: !uuid '01b41232db4e63ef72283a5b020bed7e56a47923'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81:
+    newFile: !uuid '7e69ff7a76d326f5dfaec5bc932a85c4222ee41b'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll:
+    newFile: !uuid 'abdfe025fe7b94e47fa1c51329edabea3b605ee4'
+    oldFile: null
+  /packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml:
+    newFile: !uuid 'dcc129f8d2d556999ee734ce5c2d16bc01bf7dc7'
+    oldFile: null
+  /packages/log4net.2.0.8:
+    newFile: !uuid 'e051d6e0437a20d22372c1f560a8b79d5b1b6fe9'
+    oldFile: null
+  /packages/log4net.2.0.8/lib:
+    newFile: !uuid 'addc5d197c13797af5f4cd7cb4c863d6e84b5303'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net20-full:
+    newFile: !uuid 'e4b8fc3a2dfae6cb516cdec333fa06db512536a2'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net20-full/log4net.dll:
+    newFile: !uuid '27a2be013788c629a4c81068ee102773408f6640'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net20-full/log4net.xml:
+    newFile: !uuid '8b3fcaf563a3215592d59cc1c277d7dff70396d6'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net35-client:
+    newFile: !uuid '9cb829172154c34911976bb2458ae3e425a28f1b'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net35-client/log4net.dll:
+    newFile: !uuid 'e8a0d0eced735ec50b786a8b4d2cf7a707037cc5'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net35-client/log4net.xml:
+    newFile: !uuid 'd7d5be6e7099e38d887a857513690dd1fbb0bfff'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net35-full:
+    newFile: !uuid 'fd59286ae2d50d119ab64c588646065238ed468e'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net35-full/log4net.dll:
+    newFile: !uuid '24affb7feeddb42e27ab32c6f3bfe1ff73017acf'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net35-full/log4net.xml:
+    newFile: !uuid '18f17674eefec0623117154b85683c526d9b4857'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net40-client:
+    newFile: !uuid '243a1d1abd73e4626a13df309e2dd82659239f3e'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net40-client/log4net.dll:
+    newFile: !uuid '8deb7ddf70decdeb4213acac480d78e2143e08f2'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net40-client/log4net.xml:
+    newFile: !uuid 'd7d5be6e7099e38d887a857513690dd1fbb0bfff'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net40-full:
+    newFile: !uuid '315c4376af277ac8fb3fe242222d9cf02048d007'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net40-full/log4net.dll:
+    newFile: !uuid 'a4af9d6d9d5fde81b95148df0b18ae89b1e52781'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net40-full/log4net.xml:
+    newFile: !uuid '18f17674eefec0623117154b85683c526d9b4857'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net45-full:
+    newFile: !uuid '75098d5603c44941dd6dfa3b0e292ea5f481bfcd'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net45-full/log4net.dll:
+    newFile: !uuid '93fb476ce09698c5b42da2596d74de0cfdbd1c81'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/net45-full/log4net.xml:
+    newFile: !uuid '18f17674eefec0623117154b85683c526d9b4857'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/netstandard1.3:
+    newFile: !uuid 'be79fb87761042cd243048f782ba2ac6d9e59c2a'
+    oldFile: null
+  /packages/log4net.2.0.8/lib/netstandard1.3/log4net.dll:
+    newFile: !uuid '0a66f9b4d98143eb4020898f6eae38f3cc4ab431'
+    oldFile: null
+  /packages/log4net.2.0.8/log4net.2.0.8.nupkg:
+    newFile: !uuid 'cf7002df8a1769505a056a0bae59bc326351b02c'
+    oldFile: null
+  /packages/repositories.config:
+    newFile: !uuid '884d3dc080cbf48a56190ff2de9ff2a479a31f6f'
+    oldFile: null
+gitCommitId: !uuid 'dccda12da905c117c09fa6c862564dd7b06a55e2'
 renames: {
   }
-revisionId: 1
+revisionId: 2
