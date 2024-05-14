@@ -1,13 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joon.Communication.Tool", "Joon.Communication.Tool\Joon.Communication.Tool.csproj", "{3332EBEA-C44F-4E8F-A6A1-92F204281DFD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{3613C91B-4185-447E-83B8-DB544AE03AE0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTest", "WpfTest\WpfTest.csproj", "{FEB8C7C6-A3CC-4398-9EC6-397D39EE2854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +15,11 @@ Global
 		{3332EBEA-C44F-4E8F-A6A1-92F204281DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3332EBEA-C44F-4E8F-A6A1-92F204281DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3332EBEA-C44F-4E8F-A6A1-92F204281DFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3613C91B-4185-447E-83B8-DB544AE03AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3613C91B-4185-447E-83B8-DB544AE03AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3613C91B-4185-447E-83B8-DB544AE03AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3613C91B-4185-447E-83B8-DB544AE03AE0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FEB8C7C6-A3CC-4398-9EC6-397D39EE2854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEB8C7C6-A3CC-4398-9EC6-397D39EE2854}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEB8C7C6-A3CC-4398-9EC6-397D39EE2854}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEB8C7C6-A3CC-4398-9EC6-397D39EE2854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BEA32BB-D50D-4618-BCD7-D8B4FB3A8F10}
 	EndGlobalSection
 EndGlobal

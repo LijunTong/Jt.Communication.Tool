@@ -183,19 +183,6 @@ namespace Joon.Communication.Tool.UI
                     this.pnlTcp.Visible = true;
                     this.pnlSerial.Visible = false;
                 }
-                else if (this.cmbCType.Text == "斗鱼弹幕")
-                {
-                    this.btnConnect.Text = "连接";
-                    _portType = PortType.DouYu;
-
-                    this.cmbLocalIp.Enabled = false;
-                    this.tbLocalPort.Enabled = false;
-                    this.tbRemoteIp.Enabled = true;
-                    this.tbRemotePort.Enabled = true;
-
-                    this.pnlTcp.Visible = true;
-                    this.pnlSerial.Visible = false;
-                }
                 else
                 {
                     this.btnConnect.Text = "连接";
@@ -564,7 +551,7 @@ namespace Joon.Communication.Tool.UI
 
         private void btnSend_Click(object sender, EventArgs e)
         {
-            //SendData();
+            SendData();
             int [] set = new int[]{1,2,3};
             Subsets(set);
         }
@@ -805,7 +792,6 @@ namespace Joon.Communication.Tool.UI
                 List<string> serialPort = CHelperSerialPort.GetSerialPort();
                 ports.Add(_tcpClientStr);
                 ports.Add(_tcpServiceStr);
-                ports.Add("斗鱼弹幕");
                 ports.AddRange(serialPort);
 
                 foreach (string item in ports)
